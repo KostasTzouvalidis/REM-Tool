@@ -1,0 +1,24 @@
+====================== Afferent Couplings ======================
+org.objectweb.asm.tree.analysis - 1
+org.objectweb.asm.signature - 2
+org.objectweb.asm - 5
+org.objectweb.asm.xml - 0
+org.objectweb.asm.tree - 3
+org.objectweb.asm.util - 0
+org.objectweb.asm.commons - 0
+====================== Efferent Couplings ======================
+org.objectweb.asm.tree.analysis - 2
+org.objectweb.asm.signature - 0
+org.objectweb.asm - 0
+org.objectweb.asm.xml - 1
+org.objectweb.asm.tree - 1
+org.objectweb.asm.util - 4
+org.objectweb.asm.commons - 3
+====================== Instability ======================
+org.objectweb.asm.tree.analysis - 0.666667
+org.objectweb.asm.signature - 0.000000
+org.objectweb.asm - 0.000000
+org.objectweb.asm.xml - 1.000000
+org.objectweb.asm.tree - 0.250000
+org.objectweb.asm.util - 1.000000
+org.objectweb.asm.commons - 1.000000
