@@ -1,2 +1,4 @@
 # REM-Tool
-A tool that estimates the probability of a random change occurring in one class - as well as in one package - to propagate to another, i.e. Ripple Effect Measure (REM).Works on Java libraries.
+A tool that is used for assessing change proneness for architectural modules, using the proposed coupling metric *Module Change Proneness Measure*. Works on Java libraries.
+
+Corresponding paper: http://www.cs.rug.nl/~paris/papers/WETSODA17.pdf
